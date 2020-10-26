@@ -3,7 +3,10 @@ This is a collection of tutorials and source code examples for learning Pimcore.
 Following this tutorial you will discover basics.
 
 ## How the source code is structured
-Each subfolder is a different test case.
+Each subfolder is a different test case. Enter the folder to get the info about the code.
+
+## Examples list
+1. **First setup:** A docker composer ready to go, with tips for windows user.
 
 
 
